@@ -1,4 +1,4 @@
-# Admin Style BrightLight
+# WP Swift: Admin Style BrightLight
 
  * Plugin Name:       WP Swift: Admin Style BrightLight
  * Description:       A plugin that ads custom CSS to the dashboard to match the front end colour scheme of BrightLight.
